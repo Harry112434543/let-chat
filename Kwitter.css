@@ -92,3 +92,7 @@ background-image: linear-gradient(to right top, #ffffff, #92b7cf, #90b3c7, #466f
 {
 	padding-left:5px;color:grey;
 }
+
+#room{
+	background-color: rgb(0, 255, 255);
+}
